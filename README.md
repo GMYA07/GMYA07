@@ -35,7 +35,7 @@
 </p>
 <Br>
 <hr>
-<h1>🙋‍♂️ Contactame!</h1>
+<h3>🙋‍♂️ Contactame!</h3>
 <br>
 <!--- snake -->
 <div align="center">
