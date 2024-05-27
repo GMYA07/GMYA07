@@ -15,12 +15,9 @@
 <h1>Un poco Sobre mi! 😎</h1>
 
 - 👨🏻‍💻: Soy Programador Jr y estudiante egresado de la <a href='https://www.udb.edu.sv/udb/'> Universidad Don Bosco</a> en la carrera de <a href='https://www.udb.edu.sv/udb/carreras/carrera/tecnico_en_ingenieria_en_computacion'> Tecnico en Ingenieria en computacion </a>.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- 🤝: Me gusta trabajar en equipo y dar soluciones a problemas que se presenten usando mis conocimientos.
+- 🤔: Estoy interesado en cualquier oportunidad de trabajo en desarrollo web o app movil 😅
+- ⚡ Entre otras actividades que me gustan ademas de la programacion son el futbol y baloncesto ⚽🏀
   
 <hr>
 <Br>
