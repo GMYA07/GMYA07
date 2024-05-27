@@ -20,6 +20,19 @@
 - ⚡ Entre otras actividades que me gustan ademas de la programacion son el futbol y baloncesto ⚽🏀
   
 <hr>
+<br>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,mysql,py,react,vscode" />
+  </a>
+</p>
 <Br>
 <!--- snake -->
 <div align="center">
