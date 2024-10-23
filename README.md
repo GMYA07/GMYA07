@@ -14,7 +14,7 @@
 <Br>
 <h1>Un poco Sobre mi! 😎</h1>
 
-- 👨🏻‍💻: Soy Programador Jr y graduado en la carrera de <a href='https://www.udb.edu.sv/udb/carreras/carrera/tecnico_en_ingenieria_en_computacion'> Tecnico en Ingenieria en computacion </a> en la <a href='https://www.udb.edu.sv/udb/'> Universidad Don Bosco</a> .
+- 👨🏻‍💻: Soy Programador Jr y graduado de la carrera <a href='https://www.udb.edu.sv/udb/carreras/carrera/tecnico_en_ingenieria_en_computacion'> Tecnico en Ingenieria en computacion </a> en <a href='https://www.udb.edu.sv/udb/'> Universidad Don Bosco</a> .
 - 🤝: Me gusta trabajar en equipo y dar soluciones a problemas que se presenten usando mis conocimientos.
 - 🤔: Estoy interesado en cualquier oportunidad de trabajo en desarrollo web o app movil 😅
 - ⚡ Entre otras actividades que me gustan ademas de la programacion son el futbol y baloncesto ⚽🏀
